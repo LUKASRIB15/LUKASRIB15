@@ -1,4 +1,4 @@
-## Olá, pessoal! Sejam todos bem-vindos ao meu perfil do Github 👋
+## Hey guys! Welcome everyone to my Github profile 👋
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUKASRIB15&show_icons=true&theme=dracula">
